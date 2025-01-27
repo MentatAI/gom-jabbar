@@ -2,6 +2,8 @@
 
 A ruthless LLM testing framework that separates human-like responses from animal reflexes.
 
+![demo gif](docs/demo.gif)
+
 `gom-jabbar` is a testing framework built for use with the vercel ai-sdk. It is designed to help you validate your LLM's true capabilities through rigorous testing. It is a general eval harness, but written in a unit-test style with a specific focus on making evaluating tool-use easier.
 
 Just as the Bene Gesserit's gom jabbar separates the conscious from the instinctive, this framework helps you validate your LLM's true capabilities through rigorous testing.
